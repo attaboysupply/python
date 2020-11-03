@@ -1,19 +1,12 @@
 ## WEEK 01
 
-[lecture slides](https://docs.google.com/presentation/d/1FwmxJYR9ZxeNCWQaingqzl6ZpXyu_UPE6Vc5xEcvKeo/edit?usp=sharing)
+This initial project was to get a simple calculator running on Python.
 
-Sign up for Github and create personal repository for class <br>
-Download & Install Anaconda and Jupyter Notebook. Instructions [here](https://www.notion.so/anaconda-jupter-notebook-9315faf27f41489aa06806a2851c04e2)
+### Thought Process
 
-### Intro to Python
-Topics:
-- Hello World!
-- Variables
-- Strings, Lists, Dictionaries
-- Accessing elements
-- For loops
-- Conditionals
-- Functions
+For this calculator my thought process was to define a set of functions. Add, subtract, multiply, divide.
+Then I decided to use the if/else satemente to determine which function the user is trying to perform.
+By inputing each of the functions I defined in my list the user is then prompted to enter a first number and a second number.
+After they input both numbers I used the print command to then output the function and result of the calculation.
 
-### Assignment
-Psuedocode and create your own calculator
+I indentified each of the number inputs as floats as well in order to handle multiplying with decimals.
